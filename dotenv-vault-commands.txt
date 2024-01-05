@@ -13,3 +13,5 @@ Puxa as informações que estão guardadas
 Manda as alterações locais pro projeto remoto
     npx dotenv-vault push
 
+Comand list
+    https://www.dotenv.org/docs/dotenv-vault
