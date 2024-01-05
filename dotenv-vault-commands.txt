@@ -1,0 +1,15 @@
+Cria um novo projeto
+    npx dotenv-vault new
+
+Abre o proejto no dotenv-vault
+    npx dotenv-vault open
+
+Abre a página para fazer o login
+    npx dotenv-vault login
+
+Puxa as informações que estão guardadas
+    npx dotenv-vault pull
+
+Manda as alterações locais pro projeto remoto
+    npx dotenv-vault push
+
